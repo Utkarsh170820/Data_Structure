@@ -36,7 +36,7 @@ void multi(int A[3][3],int B[3][3],int row,int column,int row1,int column1){
 }
 
 int main(void){
-    printf("TUSHAR RAJPUT IT-C 2100320130183\n");
+    printf("Utkarsh Pandey 2100320130186\n");
       int row,column; 
     printf("Enter number of rows\n");
     scanf("%d",&row);
