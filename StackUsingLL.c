@@ -58,7 +58,7 @@ void display(){
 
 void main(){
     int n;
-    printf("Tushar rajput 2100320130183\n");
+    printf("Utkarsh Pandey 2100320130186\n");
     while(n!=5){
         printf("Press 1 for push.\nPress 2 for pop.\nPress 3 for peek.\nPress 4 for display.\nPress 5 for exit.\n");
         scanf("%d",&n);
