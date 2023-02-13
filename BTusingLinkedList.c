@@ -35,7 +35,7 @@ void inorder(struct node* root){
 }
 
 void main(){
-    printf("Tushar rajput 2100320130183\n");
+    printf("Utkarsh Pandey 2100320130186\n");
     struct node* root;
     root=malloc(sizeof(struct node));
     root=create(root);
