@@ -16,7 +16,7 @@ void transpose(int A[3][3],int row,int column){
     }
 }
 int main(){
-    printf("TUSHAR RAJPUT 2100320130183\n");
+    printf("Utkarsh Pandey 2100320130186\n");
     int row,column; 
     printf("Enter number of rows\n");
     scanf("%d",&row);
