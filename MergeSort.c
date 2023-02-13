@@ -42,7 +42,7 @@ void print(int A[],int n) {
 		}
 	}
 void main(){
-printf("TUSHAR RAJPUT IT-C 2100320130183\n");
+printf("Utkarsh Pandey IT-C 2100320130186\n");
 int n;
 printf("Enter number of terms:\n");
 scanf("%d",&n);
