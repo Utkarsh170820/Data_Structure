@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 void main(){
-    printf("TUSHAR RAJPUT 2100320130183\n");
+    printf("Utkarsh Pandey 2100320130186\n");
     int n;
     printf("Enter number in binary\n");
     scanf("%d",&n);
