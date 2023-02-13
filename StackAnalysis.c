@@ -87,6 +87,6 @@ int isfull(){
 }
 
 void main(){
-    printf("TUSHAR RAJPUT IT C 2100320130183/n");
+    printf("Utkarsh Pandey 2100320130186/n");
     stack();
 }
